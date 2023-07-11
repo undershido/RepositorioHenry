@@ -1,2 +1,2 @@
-# RepositorioHenry
+# prepcourse
 HOMEWORK 02 | COMANDOS - GIT - GITHUB
